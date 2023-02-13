@@ -1,5 +1,5 @@
 # Superflake
-![official-product-badge](https://img.shields.io/badge/official%20product-aidak-8877ff)
+![official-product-badge](https://img.shields.io/badge/official%20product-wiletki-8877ff)
 
 Superflake is a revolutionary technology based on Twitter's Snowflake created with TypeScript. 
 
