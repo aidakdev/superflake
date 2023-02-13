@@ -6,19 +6,19 @@
     "types": "dist/index.d.ts",
     "repository": {
       "type": "git",
-      "url": "git+https://github.com/aidakx/superflake.git"
+      "url": "git+https://github.com/wiletki/superflake.git"
     },
     "keywords": [
-      "aidak",
+      "wiletki",
       "superflake",
       "snowflake",
       "id",
       "uuid"
     ],
-    "author": "Aidak",
+    "author": "wiletki",
     "license": "Apache-2.0",
     "bugs": {
-      "url": "https://github.com/aidakx/superflake/issues"
+      "url": "https://github.com/wiletki/superflake/issues"
     },
-    "homepage": "https://github.com/aidakx/superflake#readme"
+    "homepage": "https://github.com/wiletki/superflake#readme"
 }
